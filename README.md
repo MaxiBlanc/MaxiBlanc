@@ -6,18 +6,26 @@
 <br>
 <ul>
 ¿Quién soy?
+<ul>
 🔹 Soy un desarrollador, que se desempeña como full stack, con preferencia hacia el Back-end siempre comprometido a mi función y abierto al trabajo en equipo.
+</ul>
 </ul>
 <ul>
 </ul>
 <ul>
 ¿Qué encontraran en mi?
+<ul>
 🔹 En mi encontraran un programador dispuesto a mejorar y aprender, con gran compromiso a la hora de realizar una actividad y ayudar a quien lo necesite, para lograr un buen funcionamiento dentro del equipo de trabajo
+</ul>
 </ul>
 <ul>
 ¿Poseo experiencia?
+<ul>
 🔹 Actualmente adquiero experiencia en el ambiente académico, donde me desempeño como estudiante de ingeniería en sistemas desde hace 2 años, en donde aprendí bases sobre la algoritmia y manejo de lógica, ampliándolas en la práctica diaria.
+</ul>
+<ul>
 🔹 Durante el cursado del bootcamp Henry, amplié dichas bases, acrecentando mis capacidades técnicas y sociales fundamentales para el desarrollo de proyectos tanto individual como grupal.
+</ul>
 </ul>
 <br>
 <h3 align="center">Deseas saber algo más sobre mi ?  👇🏽</h3>
