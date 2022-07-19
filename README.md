@@ -4,20 +4,20 @@
 <br>
 <p>Comencemos con una breve descripción sobre mi...</p>
 <br>
-<ul >Me gusta mucho...
-  <li >El invierno. ❄</li>
-  <li >Leer. 📚</li>
-  <li >Dias llviosos. ⛈</li>
-</ul> 
-<br>
-<ul >Prefiero ...
-  <li >Codear en silecio. 🤫</li>
-  <li >Comido salada. 🍟</li>
+<ul>
+¿Quién soy?
+🔹 Soy un desarrollador, que se desempeña como full stack, con preferencia hacia el Back-end siempre comprometido a mi función y abierto al trabajo en equipo.
 </ul>
-<br>
-<ul >Quiero contarte que...
-  <li >Finalice el Bootcamp SoyHenry🏁.</li>
-  <li >Me encuentro buscando empleo. 🙋🏽‍♂️</li>
+<ul>
+</ul>
+<ul>
+¿Qué encontraran en mi?
+🔹 En mi encontraran un programador dispuesto a mejorar y aprender, con gran compromiso a la hora de realizar una actividad y ayudar a quien lo necesite, para lograr un buen funcionamiento dentro del equipo de trabajo
+</ul>
+<ul>
+¿Poseo experiencia?
+🔹 Actualmente adquiero experiencia en el ambiente académico, donde me desempeño como estudiante de ingeniería en sistemas desde hace 2 años, en donde aprendí bases sobre la algoritmia y manejo de lógica, ampliándolas en la práctica diaria.
+🔹 Durante el cursado del bootcamp Henry, amplié dichas bases, acrecentando mis capacidades técnicas y sociales fundamentales para el desarrollo de proyectos tanto individual como grupal.
 </ul>
 <br>
 <h3 align="center">Deseas saber algo más sobre mi ?  👇🏽</h3>
@@ -73,7 +73,7 @@
         <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> ReduxJs</li>
         <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> Bootstrap </li>
         <li><img src="https://img.icons8.com/color/480/material-ui.png" alt="materialUI" width="40" height="40"/> Material UI</li>
-        <li><img src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" alt="syledcomponents" width="40" height="30"/> CSS</li>
+        <li><img src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" alt="syledcomponents" width="40" height="30"/> CSS </li>
       </ul>
       </p>
     <br>
