@@ -7,7 +7,7 @@
 <ul>
 ¿Quién soy?
 <ul>
-🔹 Soy un desarrollador, que se desempeña como full stack, con preferencia hacia el Back-end siempre comprometido a mi función y abierto al trabajo en equipo.
+🔹 Soy un desarrollador, que se desempeña como full stack, siempre comprometido a la función que se me asigne y abierto al trabajo en equipo.
 </ul>
 </ul>
 <ul>
